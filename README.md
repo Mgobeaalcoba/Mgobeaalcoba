@@ -9,9 +9,10 @@
 
 # <div align="center" style="font-size: 40px;" >Data Dev | Web & App Dev | Sociologist</div> 
 
+
 <br/> 
 
-<div style="font-size: 20px;">
+<div style="font-size: 24px;">
 
 - 👋 Hi, I’m @Mgobeaalcoba
   
