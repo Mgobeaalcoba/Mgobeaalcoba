@@ -35,7 +35,7 @@
 
 <br/> 
 
-<table>
+<table style= "border-color: transparent;">
 
 <tr>
 
