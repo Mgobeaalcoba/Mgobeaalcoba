@@ -40,7 +40,7 @@
 
 <tr>
 
-<td valign="top" width="35%">
+<td valign="top" width="50%">
 
 
 <div align="center" style="font-size: 24px; font-weight: bold" >Frontend</div> 
@@ -74,7 +74,7 @@
 
 </td>
 
-<td valign="top" width="35%">
+<td valign="top" width="50%">
 
 <div align="center" style="font-size: 24px; font-weight: bold" >DevOps</div> 
 <div align="center" style="margin: 10px;">  
