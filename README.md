@@ -12,20 +12,20 @@
 
 <br/> 
 
-<div style="font-size: 32px;">
+<div>
 
-- <p>👋 Hi, I’m @Mgobeaalcoba</p>
+- <p style="font-size: 32px;">👋 Hi, I’m @Mgobeaalcoba</p>
   
-- <p>👀 I am interested in Data Analytics, Data Science and Full Stack Development as specific fields of the technology industry, but I am passionate about new technologies in general.</p>
+- <p style="font-size: 32px;">👀 I am interested in Data Analytics, Data Science and Full Stack Development as specific fields of the technology industry, but I am passionate about new technologies in general.</p>
   
-- <p>🌱 I’m currently learning Full Stack Developer with React, Next y Node of JavaScript in Platzi Academy & Android Developer in Udemy Business</p>
+- <p style="font-size: 32px;">🌱 I’m currently learning Full Stack Developer with React, Next y Node of JavaScript in Platzi Academy & Android Developer in Udemy Business</p>
   
-- <p>💞️ I’m looking to collaborate on open source projects in the logistics industry.</p>
+- <p style="font-size: 32px;">💞️ I’m looking to collaborate on open source projects in the logistics industry.</p>
   
   <br/> 
   
-- <p>📫 how to reach me: 
-    <ul>
+- <p style="font-size: 32px;">📫 how to reach me: 
+    <ul style="font-size: 32px;">
         <li>By LinkedIn to <a href="https://www.linkedin.com/in/mariano-gobea-alcoba"> mgobeaalcoba 🙌</a></li>
         <li>By email to <a href="https://mail.google.com/mail/?view=cm&to=gobeamariano@gmail.com&su=I'm%20interested%20in%20you&body=I%20saw%20your%20profile%20on%20GitHub%20and%20I'm%20interested%20in%20contacting%20you">gobeamariano@gmail.com ✨</a></li>
         <li>By WathApp to <a href="https://api.whatsapp.com/send?phone=541127475569">+54 9 11 27475569 🐱‍👤</a></li>
