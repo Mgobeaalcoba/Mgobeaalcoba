@@ -17,8 +17,11 @@
 - 👋 Hi, I’m @Mgobeaalcoba
   
 - 👀 I am interested in Data Analytics, Data Science and Full Stack Development as specific fields of the technology industry, but I am passionate about new technologies in general.
+  
 - 🌱 I’m currently learning Full Stack Developer with React, Next y Node of JavaScript in Platzi Academy. 
+  
 - 💞️ I’m looking to collaborate on open source projects in the logistics industry
+  
 - 📫 how to reach me: 
     <ul>
         <li>By LinkedIn to <a href="https://www.linkedin.com/in/mariano-gobea-alcoba"> mgobeaalcoba 🙌</a></li>
