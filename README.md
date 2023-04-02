@@ -21,7 +21,7 @@
 - 💞️ I’m looking to collaborate on open source projects in the logistics industry
 - 📫 how to reach me: 
     <ul>
-        <li>By LinkedIn to <a href="https://www.linkedin.com/in/mariano-gobea-alcoba/detail/message/"> Mgobeaalcoba 🙌</a></li>
+        <li>By LinkedIn to <a href="https://www.linkedin.com/in/mariano-gobea-alcoba"> mgobeaalcoba 🙌</a></li>
         <li>By email to <a href="https://mail.google.com/mail/?view=cm&to=gobeamariano@gmail.com&su=I'm%20interested%20in%20you&body=I%20saw%20your%20profile%20on%20GitHub%20and%20I'm%20interested%20in%20contacting%20you">gobeamariano@gmail.com ✨</a></li>
         <li>By WathApp to <a href="https://api.whatsapp.com/send?phone=541127475569">+54 9 11 27475569 🐱‍👤</a></li>
     </ul>
