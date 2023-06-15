@@ -7,7 +7,7 @@
 
 -------------------------------
 
-# <div align="center" style="font-size: 60px;" >Data Dev | Python Backend Dev | Product Owner | Sociologist</div> 
+# <div align="center" style="font-size: 72px;" >Data Dev | Python Backend Dev | Product Owner | Sociologist</div> 
 
 
 <br/> 
