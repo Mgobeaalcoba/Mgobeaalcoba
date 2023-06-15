@@ -14,18 +14,22 @@
 
 <div>
 
-- <p style="font-size: 32px;">👋 Hi, I’m @Mgobeaalcoba</p>
+- <p style="font-size: 40px;">👋🎩💼 Hi, I'm Mariano Gobea Alcoba, a professional with a passion for technology and business, based in Buenos Aires, Argentina. With a solid background in the technology industry and a focus on developing innovative solutions to logistics problems, I stand out for my ability to drive impactful results.
   
-- <p style="font-size: 32px;">👀 I am interested in Data Analytics, Data Science and Full Stack Development as specific fields of the technology industry, but I am passionate about new technologies in general.</p>
+- <p style="font-size: 40px;">👀🌍🔍 My career covers various roles, from Business Intelligence Specialist to Product Owner. Throughout my career, I have acquired a wide range of skills in data analysis, exploitation and storage, allowing me to approach challenges with a strongly data-driven holistic perspective and adapt quickly to dynamic environments.
   
-- <p style="font-size: 32px;">🌱 I’m currently learning Full Stack Developer with React, Next y Node of JavaScript in Platzi Academy & Android Developer in Udemy Business</p>
+- <p style="font-size: 40px;">🌱💡✨ I consider myself a strategic and creative thinker, always looking for opportunities to improve products and processes, optimize results and boost business growth. In addition, I have a strong analytical and problem-solving capacity, which allows me to make informed decisions and lead projects efficiently.
   
-- <p style="font-size: 32px;">💞️ I’m looking to collaborate on open source projects in the logistics industry.</p>
+- <p style="font-size: 40px;">💞️🚀🌟 During my time at Mercado Libre, I have played an important role in the development and implementation of different features that have positively affected the experience of Mercado Envíos drivers as well as the main KPI's of the business. This has allowed me to strengthen my ability to work and manage multifunctional and multidisciplinary teams, collaborating closely with my stakeholders to achieve exceptional results.
+  
+- <p style="font-size: 40px;">💼🌱📚 I am always looking for learning and growth opportunities, both inside and outside the workplace. I love keeping up to date on the latest trends and advances in the technology and logistics industry, and I regularly participate in relevant conferences, courses and events to expand my know-how, my network of contacts and thus enrich my professional profile.
+  
+- <p style="font-size: 40px;">🚀📧🤝 I am open to new connections and professional opportunities, so do not hesitate to contact me if you want to collaborate on innovative projects or if you think we can mutually contribute to our trajectories. It will be a pleasure to connect with you and explore synergies!
   
   <br/> 
   
-- <p style="font-size: 32px;">📫 how to reach me: 
-    <ul style="font-size: 32px;">
+- <p style="font-size: 40px;">📫 how to reach me: 
+    <ul style="font-size: 40px;">
         <li>By LinkedIn to <a href="https://www.linkedin.com/in/mariano-gobea-alcoba"> mgobeaalcoba 🙌</a></li>
         <li>By email to <a href="mailto:gobeamariano@gmail.com?subject=I´m interested in you&body=I saw your profile on Github and I´m interested in contacting you.">gobeamariano@gmail.com ✨</a></li>
         <li>By WathApp to <a href="https://api.whatsapp.com/send?phone=541127475569">+54 9 11 27475569 🐱‍👤</a></li>
