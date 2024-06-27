@@ -157,11 +157,7 @@
 </div>  
   
 
-<br/>  
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mgobeaalcoba" align="center"/></div> 
- 
-<br/> 
 
 # <div align="center" style="font-size: 40px;" >Github Stats </div> 
 
@@ -169,19 +165,17 @@
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Mgobeaalcoba&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<br/>  
+<br/>   
 
-
-<br/>  
-
-  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mgobeaalcoba" align="center"/></div> 
+ 
+<br/> 
 
 <br/>  
 
 <div align="center" style="font-size: 32px;">
 <img src="https://komarev.com/ghpvc/?username=Mgobeaalcoba&&style=flat-square" align="center" />
 </div>  
-  
 
 <br/>  
 
