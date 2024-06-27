@@ -159,10 +159,8 @@
 
 <br/>  
 
-<div align="center">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mgobeaalcoba)](https://github.com/anuraghazra/github-readme-stats)
-</div>  
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mgobeaalcoba" align="center"/> 
+ 
 <br/> 
 
 # <div align="center" style="font-size: 40px;" >Github Stats </div> 
