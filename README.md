@@ -167,10 +167,8 @@
 
 <br/>   
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mgobeaalcoba" align="center"/></div> 
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mgobeaalcoba&size_weight=0&count_weight=1" align="center"/></div> 
  
-<br/> 
-
 <br/>  
 
 <div align="center" style="font-size: 32px;">
