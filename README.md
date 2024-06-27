@@ -163,11 +163,11 @@
 
 <br/>  
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Mgobeaalcoba&show_icons=true&count_private=true&hide_border=true&theme=synthwave" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Mgobeaalcoba&show_icons=true&count_private=true&hide_border=false&theme=cobalt" align="center" /></div>  
 
 <br/>   
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mgobeaalcoba&size_weight=0.2&count_weight=0.8&hide=css,html&langs_count=10&layout=donut&theme=synthwave" align="center"/></div> 
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mgobeaalcoba&size_weight=0.2&count_weight=0.8&hide=css,html&langs_count=10&layout=donut&theme=cobalt" align="center"/></div> 
  
 <br/>  
 
