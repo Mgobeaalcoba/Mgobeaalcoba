@@ -159,7 +159,7 @@
 
 <br/>  
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mgobeaalcoba" align="center"/> 
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mgobeaalcoba" align="center"/></div> 
  
 <br/> 
 
