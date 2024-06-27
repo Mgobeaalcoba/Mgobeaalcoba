@@ -167,7 +167,7 @@
 
 <br/>   
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mgobeaalcoba&size_weight=0.2&count_weight=0.8&hide=css,html" align="center"/></div> 
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mgobeaalcoba&size_weight=0.2&count_weight=0.8&hide=css,html&langs_count=10" align="center"/></div> 
  
 <br/>  
 
