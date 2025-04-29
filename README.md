@@ -7,35 +7,93 @@
 
 -------------------------------
 
-# <div align="center" style="font-size: 72px;" >Data Dev | Python Backend Dev | Product Owner | Sociologist</div> 
+# 👋 Hi there, I'm Mariano Gobea Alcoba
 
+### 🧠 Data Specialist | Backend Developer | Educator | Product Strategist | Sociologist  
+*Buenos Aires, Argentina*
 
-<br/> 
+---
 
-<div>
+## 🌐 About me (EN)
 
-- <p style="font-size: 40px;">👋🎩💼 Hi, I'm Mariano Gobea Alcoba, a professional with a passion for technology and business, based in Buenos Aires, Argentina. With a solid background in the technology industry and a focus on developing innovative solutions to logistics problems, I stand out for my ability to drive impactful results.
-  
-- <p style="font-size: 40px;">👀🌍🔍 My career covers various roles, from Business Intelligence Specialist to Product Owner. Throughout my career, I have acquired a wide range of skills in data analysis, exploitation and storage, allowing me to approach challenges with a strongly data-driven holistic perspective and adapt quickly to dynamic environments.
-  
-- <p style="font-size: 40px;">🌱💡✨ I consider myself a strategic and creative thinker, always looking for opportunities to improve products and processes, optimize results and boost business growth. In addition, I have a strong analytical and problem-solving capacity, which allows me to make informed decisions and lead projects efficiently.
-  
-- <p style="font-size: 40px;">💞️🚀🌟 During my time at Mercado Libre, I have played an important role in the development and implementation of different features that have positively affected the experience of Mercado Envíos drivers as well as the main KPI's of the business. This has allowed me to strengthen my ability to work and manage multifunctional and multidisciplinary teams, collaborating closely with my stakeholders to achieve exceptional results.
-  
-- <p style="font-size: 40px;">💼🌱📚 I am always looking for learning and growth opportunities, both inside and outside the workplace. I love keeping up to date on the latest trends and advances in the technology and logistics industry, and I regularly participate in relevant conferences, courses and events to expand my know-how, my network of contacts and thus enrich my professional profile.
-  
-- <p style="font-size: 40px;">🚀📧🤝 I am open to new connections and professional opportunities, so do not hesitate to contact me if you want to collaborate on innovative projects or if you think we can mutually contribute to our trajectories. It will be a pleasure to connect with you and explore synergies!
-  
-  <br/> 
-  
-- <p style="font-size: 40px;">📫 how to reach me: 
-    <ul style="font-size: 40px;">
-        <li>By LinkedIn to <a href="https://www.linkedin.com/in/mariano-gobea-alcoba"> mgobeaalcoba 🙌</a></li>
-        <li>By email to <a href="mailto:gobeamariano@gmail.com?subject=I´m interested in you&body=I saw your profile on Github and I´m interested in contacting you.">gobeamariano@gmail.com ✨</a></li>
-        <li>By WathApp to <a href="https://api.whatsapp.com/send?phone=541127475569">+54 9 11 27475569 🐱‍👤</a></li>
-    </ul>
-</p>
+I'm a data-driven professional with 5+ years of experience working across data engineering, analytics, and backend development, currently at **Mercado Libre**. My background bridges **technology, business, and social sciences**, enabling me to lead projects with strategic insight and technical depth.
 
+I specialize in:
+
+- 🛠️ Building scalable data pipelines and backend services in **Python**, **R**, **Go**, **Java**, and **Kotlin**
+- 📊 Designing data models and ETL processes using **BigQuery**, **SQL Server**, **PostgreSQL**, and **pandas**
+- 🔎 Creating actionable dashboards and KPIs with **Looker Studio**, **Excel**, and **Google Apps Script**
+- 🤖 Developing ML-ready pipelines using **scikit-learn**, **pipelines**, and **custom transformers**
+- 🚀 Teaching and mentoring future tech professionals in **Soy Henry** and **UADE**, focusing on Python, SQL, and data thinking
+
+I'm passionate about solving complex logistics and authentication problems with elegant, data-centric solutions. My recent focus includes user journey analytics and alerting systems for authentication flows, combining analytical depth with impactful execution.
+
+---
+
+## 🌱 What drives me
+
+- 🚀 Empowering people through **education and mentorship**
+- 📦 Improving logistics and platform security with **data and engineering**
+- 🎓 Sharing knowledge through **courses, lectures, and public speaking**
+- 💡 Always learning and building—one tool, one model, one insight at a time
+
+---
+
+## 📬 Let's connect
+
+<ul>
+  <li>By <strong>LinkedIn</strong>: <a href="https://www.linkedin.com/in/mariano-gobea-alcoba/">mariano-gobea-alcoba</a></li>
+  <li>By <strong>email</strong>: <a href="mailto:gobeamariano@gmail.com?subject=I´m interested in you&body=I saw your profile on Github and I´m interested in contacting you.">gobeamariano@gmail.com ✨</a></li>
+  <li>By <strong>WhatsApp</strong>: <a href="https://api.whatsapp.com/send?phone=541127475569">+54 9 11 2747 5569 🐱‍👤</a></li>
+  <li>By <strong>GitHub</strong>: <a href="https://github.com/Mgobeaalcoba">@Mgobeaalcoba</a></li>
+</ul>
+
+---
+
+---
+
+## 👋 Hola, soy Mariano Gobea Alcoba
+
+### 🧠 Especialista en Datos | Desarrollador Backend | Docente | Estratega de Producto | Sociólogo  
+*Buenos Aires, Argentina*
+
+---
+
+## 🌐 Sobre mí (ES)
+
+Soy un profesional orientado a datos con más de 5 años de experiencia en **data engineering, analytics** y desarrollo **backend**, actualmente trabajando en **Mercado Libre**. Combino mi formación en tecnología y ciencias sociales para liderar proyectos con mirada estratégica y ejecución técnica.
+
+Me especializo en:
+
+- 🛠️ Construcción de pipelines y servicios backend escalables con **Python**, **R**, **Go**, **Java** y **Kotlin**
+- 📊 Modelado de datos y procesos ETL con **BigQuery**, **SQL Server**, **PostgreSQL** y **pandas**
+- 🔎 Visualización y seguimiento de KPIs usando **Looker Studio**, **Excel** y **Google Apps Script**
+- 🤖 Desarrollo de pipelines de ML con **scikit-learn**, **pipelines**, y **transformadores custom**
+- 🚀 Docencia en **Soy Henry** y **UADE**, enseñando Python, SQL y pensamiento analítico
+
+Me apasiona resolver problemas complejos de logística y autenticación con soluciones elegantes basadas en datos. En el último tiempo trabajé en analíticas de journeys de usuarios y sistemas de alertas en flows de autenticación.
+
+---
+
+## 🌱 Qué me motiva
+
+- 🚀 Potenciar a otros a través de la **educación y mentoría**
+- 📦 Mejorar la logística y seguridad de plataformas mediante **datos y desarrollo**
+- 🎓 Compartir conocimiento en **clases, cursos y charlas**
+- 💡 Aprender y construir constantemente: una herramienta, un modelo, un insight a la vez
+
+---
+
+## 📬 Conectemos
+
+<ul>
+  <li>Por <strong>LinkedIn</strong>: <a href="https://www.linkedin.com/in/mariano-gobea-alcoba/">mariano-gobea-alcoba</a></li>
+  <li>Por <strong>email</strong>: <a href="mailto:gobeamariano@gmail.com?subject=Estoy interesado en vos&body=Vi tu perfil en Github y me gustaría contactarte.">gobeamariano@gmail.com ✨</a></li>
+  <li>Por <strong>WhatsApp</strong>: <a href="https://api.whatsapp.com/send?phone=541127475569">+54 9 11 2747 5569 🐱‍👤</a></li>
+  <li>Por <strong>GitHub</strong>: <a href="https://github.com/Mgobeaalcoba">@Mgobeaalcoba</a></li>
+</ul>
+
+---
   
 </div><br />
 
