@@ -398,13 +398,21 @@ Regional logistics operations lacked standardized KPIs and monitoring systems.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Mgobeaalcoba&show_icons=true&count_private=true&hide_border=false&theme=cobalt&include_all_commits=true&rank_icon=github" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mgobeaalcoba&theme=cobalt&hide_border=false" width="48%" />
+<a href="https://github.com/Mgobeaalcoba">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mgobeaalcoba&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mgobeaalcoba&layout=compact&langs_count=8&theme=cobalt&hide_border=true&hide=css,html"/>
+</a>
 
 </div>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mgobeaalcoba&size_weight=0.2&count_weight=0.8&hide=css,html&langs_count=10&layout=compact&theme=cobalt&hide_border=false" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mgobeaalcoba&theme=cobalt&hide_border=true" alt="GitHub Streak Stats"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Mgobeaalcoba&theme=discord&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
 </div>
 
 ---
