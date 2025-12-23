@@ -394,25 +394,34 @@ Regional logistics operations lacked standardized KPIs and monitoring systems.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
-<a href="https://github.com/Mgobeaalcoba">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mgobeaalcoba&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mgobeaalcoba&layout=compact&langs_count=8&theme=cobalt&hide_border=true&hide=css,html"/>
-</a>
+[![GitHub Stats](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/Mgobeaalcoba)
+[![Repos](https://img.shields.io/badge/dynamic/json?color=blue&label=Public%20Repos&query=%24.public_repos&url=https://api.github.com/users/Mgobeaalcoba&style=for-the-badge&logo=github)](https://github.com/Mgobeaalcoba?tab=repositories)
+[![Followers](https://img.shields.io/github/followers/Mgobeaalcoba?label=Followers&style=for-the-badge&logo=github)](https://github.com/Mgobeaalcoba?tab=followers)
 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mgobeaalcoba&theme=cobalt&hide_border=true" alt="GitHub Streak Stats"/>
+
+### 🏆 GitHub Contributions
+
+Check out my [**GitHub Profile**](https://github.com/Mgobeaalcoba) for:
+- 📦 **100+ repositories** (data analytics, backend, ML projects)
+- 🔀 **Active contributions** to open-source
+- 📚 **Educational repos** for teaching Python, SQL, and data analytics
+- 🚀 **Production-grade code** from Mercado Libre projects
+
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mgobeaalcoba&theme=discord&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Mgobeaalcoba&style=for-the-badge&color=blue)
+
 </div>
 
 ---
