@@ -19,7 +19,11 @@
 
 <br/>
 
-### 👋 Sobre mí
+<div align="center">
+
+<h3><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0077B5,100:FF5722&height=55&text=%F0%9F%91%8B%20Sobre%20m%C3%AD&fontSize=22&fontColor=ffffff&fontAlignY=65" alt="👋 Sobre mí" width="100%"/></h3>
+
+</div>
 
 Lidero **innovación basada en datos** en **Mercado Libre**, el unicornio tech más grande de Latinoamérica, donde diseño sistemas de IA y analítica que democratizan el comercio y los servicios financieros para millones de usuarios. Formo equipos, enseño lo que aprendo en el camino (UADE, Soy Henry) y mido todo en impacto de negocio, no en líneas de código.
 
@@ -27,17 +31,25 @@ Lidero **innovación basada en datos** en **Mercado Libre**, el unicornio tech m
 
 <div align="center">
 
-### 📊 Impacto en números
+<h3><img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF5722,100:0077B5&height=55&text=%F0%9F%93%8A%20Impacto%20en%20n%C3%BAmeros&fontSize=22&fontColor=ffffff&fontAlignY=65" alt="📊 Impacto en números" width="100%"/></h3>
 
-| 🤖 AI Adoption | ⚡ Eficiencia operativa | 🔍 Análisis forense | 💰 Impacto anual | 👥 Team eNPS |
-|:---:|:---:|:---:|:---:|:---:|
-| **+30%** | **+20%** | **-70% a -80%** tiempo | **+USD 500K** | **+25 pts** |
+<br/><br/>
+
+<img alt="AI Adoption +30%" src="https://img.shields.io/badge/AI_Adoption-%2B30%25-0077B5?style=for-the-badge"/>
+<img alt="Eficiencia Operativa +20%" src="https://img.shields.io/badge/Eficiencia_Operativa-%2B20%25-1E88E5?style=for-the-badge"/>
+<img alt="Analisis Forense 70 a 80% menos" src="https://img.shields.io/badge/Analisis_Forense-70--80%25_menos-6A4C93?style=for-the-badge"/>
+<img alt="Impacto Anual +USD 500K" src="https://img.shields.io/badge/Impacto_Anual-%2BUSD_500K-2E7D32?style=for-the-badge"/>
+<img alt="Team eNPS +25 pts" src="https://img.shields.io/badge/Team_eNPS-%2B25_pts-FF5722?style=for-the-badge"/>
 
 </div>
 
 <br/>
 
-### 🌱 Ahora mismo
+<div align="center">
+
+<h3><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0077B5,100:FF5722&height=55&text=%F0%9F%8C%B1%20Ahora%20mismo&fontSize=22&fontColor=ffffff&fontAlignY=65" alt="🌱 Ahora mismo" width="100%"/></h3>
+
+</div>
 
 - 🔬 Construyendo pipelines de **MLOps** para seguridad en autenticación
 - 🤖 Explorando **agentic AI** con LangChain & CrewAI
@@ -45,7 +57,13 @@ Lidero **innovación basada en datos** en **Mercado Libre**, el unicornio tech m
 
 <br/>
 
-### 🚀 Proyectos destacados
+<div align="center">
+
+<h3><img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF5722,100:0077B5&height=55&text=%F0%9F%9A%80%20Proyectos%20destacados&fontSize=22&fontColor=ffffff&fontAlignY=65" alt="🚀 Proyectos destacados" width="100%"/></h3>
+
+</div>
+
+<br/>
 
 <table>
 <tr>
@@ -86,7 +104,9 @@ Agente que consolida y resume alertas ruidosas de DataMesh.
 
 <div align="center">
 
-### 🛠️ Stack
+<h3><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0077B5,100:FF5722&height=55&text=%F0%9F%9B%A0%EF%B8%8F%20Stack&fontSize=22&fontColor=ffffff&fontAlignY=65" alt="🛠️ Stack" width="100%"/></h3>
+
+<br/><br/>
 
 <img src="https://skillicons.dev/icons?i=python,r,go,java,kotlin,postgres,mysql,gcp,aws,docker,kubernetes,flask,fastapi,pytorch,tensorflow,git&theme=dark&perline=8" />
 
@@ -96,7 +116,9 @@ Agente que consolida y resume alertas ruidosas de DataMesh.
 
 <div align="center">
 
-### 📈 GitHub Activity
+<h3><img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF5722,100:0077B5&height=55&text=%F0%9F%93%88%20GitHub%20Activity&fontSize=22&fontColor=ffffff&fontAlignY=65" alt="📈 GitHub Activity" width="100%"/></h3>
+
+<br/><br/>
 
 <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Mgobeaalcoba&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true"/>
 <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mgobeaalcoba&layout=compact&theme=tokyonight&hide_border=true"/>
@@ -119,7 +141,9 @@ Agente que consolida y resume alertas ruidosas de DataMesh.
 
 <div align="center">
 
-### 📫 Hablemos
+<h3><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0077B5,100:FF5722&height=55&text=%F0%9F%93%AB%20Hablemos&fontSize=22&fontColor=ffffff&fontAlignY=65" alt="📫 Hablemos" width="100%"/></h3>
+
+<br/><br/>
 
 Abierto a proyectos de **Data & AI Engineering**, charlas sobre **liderazgo técnico** y mentoría a profesionales que arrancan en el rubro.
 
