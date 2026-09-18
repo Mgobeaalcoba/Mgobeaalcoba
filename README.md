@@ -21,7 +21,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0077B5,100:FF5722&height=55&text=%F0%9F%91%8B%20Sobre%20m%C3%AD&fontSize=22&fontColor=ffffff&fontAlignY=65" width="100%"/>
+<h3><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0077B5,100:FF5722&height=55&text=%F0%9F%91%8B%20Sobre%20m%C3%AD&fontSize=22&fontColor=ffffff&fontAlignY=65" alt="👋 Sobre mí" width="100%"/></h3>
 
 </div>
 
@@ -31,7 +31,7 @@ Lidero **innovación basada en datos** en **Mercado Libre**, el unicornio tech m
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF5722,100:0077B5&height=55&text=%F0%9F%93%8A%20Impacto%20en%20n%C3%BAmeros&fontSize=22&fontColor=ffffff&fontAlignY=65" width="100%"/>
+<h3><img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF5722,100:0077B5&height=55&text=%F0%9F%93%8A%20Impacto%20en%20n%C3%BAmeros&fontSize=22&fontColor=ffffff&fontAlignY=65" alt="📊 Impacto en números" width="100%"/></h3>
 
 <br/><br/>
 
@@ -47,7 +47,7 @@ Lidero **innovación basada en datos** en **Mercado Libre**, el unicornio tech m
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0077B5,100:FF5722&height=55&text=%F0%9F%8C%B1%20Ahora%20mismo&fontSize=22&fontColor=ffffff&fontAlignY=65" width="100%"/>
+<h3><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0077B5,100:FF5722&height=55&text=%F0%9F%8C%B1%20Ahora%20mismo&fontSize=22&fontColor=ffffff&fontAlignY=65" alt="🌱 Ahora mismo" width="100%"/></h3>
 
 </div>
 
@@ -59,7 +59,7 @@ Lidero **innovación basada en datos** en **Mercado Libre**, el unicornio tech m
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF5722,100:0077B5&height=55&text=%F0%9F%9A%80%20Proyectos%20destacados&fontSize=22&fontColor=ffffff&fontAlignY=65" width="100%"/>
+<h3><img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF5722,100:0077B5&height=55&text=%F0%9F%9A%80%20Proyectos%20destacados&fontSize=22&fontColor=ffffff&fontAlignY=65" alt="🚀 Proyectos destacados" width="100%"/></h3>
 
 </div>
 
@@ -104,7 +104,7 @@ Agente que consolida y resume alertas ruidosas de DataMesh.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0077B5,100:FF5722&height=55&text=%F0%9F%9B%A0%EF%B8%8F%20Stack&fontSize=22&fontColor=ffffff&fontAlignY=65" width="100%"/>
+<h3><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0077B5,100:FF5722&height=55&text=%F0%9F%9B%A0%EF%B8%8F%20Stack&fontSize=22&fontColor=ffffff&fontAlignY=65" alt="🛠️ Stack" width="100%"/></h3>
 
 <br/><br/>
 
@@ -116,7 +116,7 @@ Agente que consolida y resume alertas ruidosas de DataMesh.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF5722,100:0077B5&height=55&text=%F0%9F%93%88%20GitHub%20Activity&fontSize=22&fontColor=ffffff&fontAlignY=65" width="100%"/>
+<h3><img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF5722,100:0077B5&height=55&text=%F0%9F%93%88%20GitHub%20Activity&fontSize=22&fontColor=ffffff&fontAlignY=65" alt="📈 GitHub Activity" width="100%"/></h3>
 
 <br/><br/>
 
@@ -141,7 +141,7 @@ Agente que consolida y resume alertas ruidosas de DataMesh.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0077B5,100:FF5722&height=55&text=%F0%9F%93%AB%20Hablemos&fontSize=22&fontColor=ffffff&fontAlignY=65" width="100%"/>
+<h3><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0077B5,100:FF5722&height=55&text=%F0%9F%93%AB%20Hablemos&fontSize=22&fontColor=ffffff&fontAlignY=65" alt="📫 Hablemos" width="100%"/></h3>
 
 <br/><br/>
 
