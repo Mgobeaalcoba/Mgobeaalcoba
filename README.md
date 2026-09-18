@@ -1,15 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:FF5722&height=230&section=header&text=Mariano%20Gobea%20Alcoba&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Tech%20Leader%20%7C%20Data%20%26%20Analytics%20%7C%20AI%20Engineering%20%7C%20Security%20BI&descAlignY=54&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:FF5722&height=230&section=header&text=Mariano%20Gobea%20Alcoba&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Tech%20Leader%20%7C%20Data%20and%20Analytics%20%7C%20AI%20Engineering%20%7C%20Security%20BI&descAlignY=54&descSize=18" width="100%"/>
 
-<a href="https://www.linkedin.com/in/mariano-gobea-alcoba/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://mgobeaalcoba.github.io/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
-<a href="mailto:gobeamariano@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://api.whatsapp.com/send?phone=541127475569"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/mariano-gobea-alcoba/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://mgobeaalcoba.github.io/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+<a href="mailto:gobeamariano@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://api.whatsapp.com/send?phone=541127475569"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=2000&color=F7F7F7&center=true&vCenter=true&width=650&height=45&lines=Transformando+datos+en+decisiones;Liderando+equipos+de+Data+%26+AI+en+Mercado+Libre;Construyendo+sistemas+inteligentes+que+escalan" alt="typing"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=2000&color=F7F7F7&center=true&vCenter=true&width=650&height=45&lines=Transformando+datos+en+decisiones%3BLiderando+equipos+de+Data+and+AI+en+Mercado+Libre%3BConstruyendo+sistemas+inteligentes+que+escalan#gh-dark-mode-only" alt="Transformando datos en decisiones"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=2000&color=1A1A2E&center=true&vCenter=true&width=650&height=45&lines=Transformando+datos+en+decisiones%3BLiderando+equipos+de+Data+and+AI+en+Mercado+Libre%3BConstruyendo+sistemas+inteligentes+que+escalan#gh-light-mode-only" alt="Transformando datos en decisiones"/>
 
 <img src="https://raw.githubusercontent.com/Mgobeaalcoba/Mgobeaalcoba/main/gif_images/headergitdark.gif#gh-dark-mode-only" width="800"/>
 <img src="https://raw.githubusercontent.com/Mgobeaalcoba/Mgobeaalcoba/main/gif_images/headergitlight.gif#gh-light-mode-only" width="800"/>
@@ -30,7 +31,7 @@ Lidero **innovación basada en datos** en **Mercado Libre**, el unicornio tech m
 
 | 🤖 AI Adoption | ⚡ Eficiencia operativa | 🔍 Análisis forense | 💰 Impacto anual | 👥 Team eNPS |
 |:---:|:---:|:---:|:---:|:---:|
-| **+30%** | **+20%** | **-70/80%** tiempo | **+USD 500K** | **+25 pts** |
+| **+30%** | **+20%** | **-70% a -80%** tiempo | **+USD 500K** | **+25 pts** |
 
 </div>
 
@@ -53,7 +54,7 @@ Lidero **innovación basada en datos** en **Mercado Libre**, el unicornio tech m
 **🔬 Forensic API + MCP**
 Unificación de 8 productos de seguridad en una API forense potenciada por LLMs.
 `Python` `Flask` `BigQuery` `MCP`
-📉 -70/80% tiempo de investigación
+📉 -70% a -80% tiempo de investigación
 
 </td>
 <td width="33%" valign="top">
@@ -122,8 +123,8 @@ Agente que consolida y resume alertas ruidosas de DataMesh.
 
 Abierto a proyectos de **Data & AI Engineering**, charlas sobre **liderazgo técnico** y mentoría a profesionales que arrancan en el rubro.
 
-<a href="https://www.linkedin.com/in/mariano-gobea-alcoba/"><img src="https://img.shields.io/badge/Conectemos_en_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://mgobeaalcoba.github.io/"><img src="https://img.shields.io/badge/Ver_mi_Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/mariano-gobea-alcoba/"><img alt="Conectemos en LinkedIn" src="https://img.shields.io/badge/Conectemos_en_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://mgobeaalcoba.github.io/"><img alt="Ver mi Portfolio" src="https://img.shields.io/badge/Ver_mi_Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
 
 <br/><br/>
 
